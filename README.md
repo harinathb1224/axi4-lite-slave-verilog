@@ -25,6 +25,9 @@ Read Operation
 Data fetched based on address
 Returned via read data channel
 
+Wavefroms
+![Waveform](waveform/axi_waveform.png)
+
 🧪 Simulation
 Verified in Vivado using behavioral simulation
 Multiple test cases executed
